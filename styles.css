@@ -6,8 +6,8 @@ body, header, main, footer {
 
 /* Apply some basic styles */
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
+   font-family: 'Hylia-Serif', serif;
+  background-color: #333;
 }
 
 header {
